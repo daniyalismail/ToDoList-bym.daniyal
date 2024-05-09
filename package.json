@@ -1,0 +1,16 @@
+{
+  "name": "todo-list-bym.daniyal",
+  "version": "1.0.0",
+  "description": "A Program Which Allows You To Input Your (Habit Or Any Reminder Or Anything) And It Will Print Your List",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  }
+}
