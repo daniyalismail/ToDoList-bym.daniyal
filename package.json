@@ -1,6 +1,6 @@
 {
-  "name": "todo-list-bym.daniyal",
-  "version": "1.0.1",
+  "name": "todo-list-bym_daniyal",
+  "version": "1.0.2",
   "description": "A Program Which Allows You To Input Your (Habit Or Any Reminder Or Anything) And It Will Print Your List",
   "main": "main.js",
   "type": "module",
